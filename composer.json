@@ -1,0 +1,5 @@
+{
+    "require": {
+        "picqer/sendcloud-php-client": "^2.4"
+    }
+}
